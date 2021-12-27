@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    background: -webkit-linear-gradient(90deg, rgb(30, 206, 214) 9%, rgb(78, 212, 135) 50%, rgb(242, 144, 34) 86%);
+    background: -moz-linear-gradient(90deg, rgb(30, 206, 214) 9%, rgb(78, 212, 135) 50%, rgb(242, 144, 34) 86%);
+    background: linear-gradient(90deg, rgb(30, 206, 214) 9%, rgb(78, 212, 135) 50%, rgb(242, 144, 34) 86%);
+}
+tr{
+ border: 2px solid black 
+}
+td{
+    border: 2px solid black;
+}
+table{
+    width: 1500px;
+    height: 800px;
+}
+img {
+    width: 170px;
+    height: 220px
+}
+  
